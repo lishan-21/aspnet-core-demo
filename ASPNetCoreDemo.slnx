@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="HelloMVC/HelloMVC.csproj" Id="57e5da46-46c7-4617-aabc-31967a7c7b71" />
+  <Project Path="HelloWorld/HelloWorld.csproj" Id="0fe1035f-15f0-489c-906e-0c0ef4d89dd7" />
+  <Project Path="PerformanceMonitor/PerformanceMonitor.csproj" />
+  <Project Path="TestCreateProject/TestCreateProject.csproj" Id="36d32302-c976-475f-a12f-c7a4baa4a5d1" />
+</Solution>
